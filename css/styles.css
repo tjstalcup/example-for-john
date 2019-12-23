@@ -1,0 +1,10 @@
+img {
+    width: 500px;
+  }
+
+  div {
+      border: 5px solid green;
+      height: 500px;
+      background-image: url('../img/tree.jpg');
+      background-size: cover;
+  }
